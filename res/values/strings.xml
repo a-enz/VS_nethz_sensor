@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VS_neth_Sensors</string>
+    <string name="hello_world">Sensorzzzzz</string>
+    <string name="action_settings">Settings</string>
+	<string name="button1">TestButton</string>
+    <string name="title_activity_sensor">Sensor</string>
+</resources>
